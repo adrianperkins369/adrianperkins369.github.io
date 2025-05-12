@@ -15,7 +15,7 @@ toc:
 *Version 1.0*  
 *Effective Date: March 12, 2025*  
 *Prepared by: Information Security Team*  
-*Contact: security@fortivault.com*  
+*Contact: security@fortivault.com*   
 
 ---
 
