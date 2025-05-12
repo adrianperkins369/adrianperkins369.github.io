@@ -33,7 +33,7 @@ FortiVault, Inc. ("FortiVault") is committed to maintaining a robust information
 
 ## Purpose and Scope
 
-<br>
+---
 
 ### Purpose
 
@@ -180,8 +180,7 @@ FortiVault's Information Security Policy is structured around the five core func
 
 ## Roles and Responsibilities
 
-<br>
-
+---
 ### Board of Directors  
 - Approve this policy and ensure sufficient resources  
 - Review annual risk assessments  
@@ -206,7 +205,7 @@ FortiVault's Information Security Policy is structured around the five core func
 
 ## Compliance and Enforcement
 
-Compliance with this policy is mandatory. Violations may result in disciplinary action up to termination, and legal action if necessary. For inquiries, contact the Information Security Team at `security@horizondata.com`.
+Compliance with this policy is mandatory. Violations may result in disciplinary action up to termination, and legal action if necessary. For inquiries, contact the Information Security Team at `security@fortivault.com`.
 
 ---
 
