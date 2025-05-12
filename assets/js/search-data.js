@@ -34,11 +34,11 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
-      },{id: "post-acceptable-use-policy-sentinel-security-solutions",
+      },{id: "post-teamlink-v2-4-0-release-notes",
         
-          title: "Acceptable Use Policy - Sentinel Security Solutions",
+          title: "TeamLink v2.4.0 Release Notes",
         
-        description: "Acceptable Use Policy for Sentinel Security Solutions",
+        description: "Release notes for TeamLink v2.4.0",
         section: "Posts",
         handler: () => {
           
