@@ -4,13 +4,10 @@ title: Acceptable Use Policy - Sentinel Security Solutions
 date: 2025-02-07 16:40:16
 description: Acceptable Use Policy for Sentinel Security Solutions
 tags: policy, cybersecurity
-categories: sameple-posts
+categories: 
 toc:
   beginning: true
 ---
-
-
-
 # Acceptable Use Policy
 
 ## Sentinel Security Solutions
@@ -18,29 +15,6 @@ toc:
 **Effective Date: February 7, 2025**  
 **Document ID: AUP-2025-001**  
 **Version: 1.0**
-
-## Table of Contents
-
-- [Acceptable Use Policy](#acceptable-use-policy)
-  - [Sentinel Security Solutions](#sentinel-security-solutions)
-  - [Table of Contents](#table-of-contents)
-  - [Purpose](#purpose)
-  - [Scope](#scope)
-  - [General Use and Ownership](#general-use-and-ownership)
-  - [Security and Proprietary Information](#security-and-proprietary-information)
-  - [System and Network Activities](#system-and-network-activities)
-  - [Email and Communications](#email-and-communications)
-  - [Mobile Device Management (MDM) Policy](#mobile-device-management-mdm-policy)
-  - [Software Installation](#software-installation)
-  - [Remote Access](#remote-access)
-  - [Password Management](#password-management)
-  - [Physical Security](#physical-security)
-  - [Compliance Measurement](#compliance-measurement)
-  - [Non-Compliance](#non-compliance)
-  - [Exceptions](#exceptions)
-  - [Definitions](#definitions)
-  - [Revision History](#revision-history)
-  - [Acknowledgment of Understanding](#acknowledgment-of-understanding)
 
 ## Purpose
 
