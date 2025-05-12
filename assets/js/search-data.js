@@ -34,6 +34,28 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-acceptable-use-policy-sentinel-security-solutions",
+        
+          title: "Acceptable Use Policy - Sentinel Security Solutions",
+        
+        description: "Acceptable Use Policy for Sentinel Security Solutions",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/TeamLink/";
+          
+        },
+      },{id: "post-acceptable-use-policy-sentinel-security-solutions",
+        
+          title: "Acceptable Use Policy - Sentinel Security Solutions",
+        
+        description: "Acceptable Use Policy for Sentinel Security Solutions",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/sentinelsecuritysolutions/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
