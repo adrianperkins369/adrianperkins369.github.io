@@ -34,6 +34,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/plotly/";
           
         },
+      },{id: "post-information-security-policy-fortivault",
+        
+          title: "Information Security Policy - FortiVault",
+        
+        description: "Information Security Policy for FortiVault, Inc.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/infosecpolicy/";
+          
+        },
       },{id: "post-teamlink-v2-4-0-release-notes",
         
           title: "TeamLink v2.4.0 Release Notes",
