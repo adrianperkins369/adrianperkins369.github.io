@@ -63,7 +63,7 @@ FortiVault's Information Security Policy is structured around the five core func
 
 ## NIST CSF Implementation
 ---
-## Identify
+### Identify
 
 #### Asset Management  
 - Maintain an inventory of all devices, systems, and software  
