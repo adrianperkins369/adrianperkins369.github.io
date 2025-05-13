@@ -264,11 +264,11 @@ Any exceptions to this policy must be:
 
 I acknowledge that I have read and understand the Acceptable Use Policy of Sentinel Security Solutions. I understand that violation of this policy may result in disciplinary action, up to and including termination of employment or business relationship.
 
-Name: **************\_\_\_**************
+Name: ******\*\*******\_\_\_******\*\*******
 
-Signature: **************\_\_\_**************
+Signature: ******\*\*******\_\_\_******\*\*******
 
-Date: **************\_\_\_**************
+Date: ******\*\*******\_\_\_******\*\*******
 
 ---
 
