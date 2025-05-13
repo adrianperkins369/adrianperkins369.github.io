@@ -4,10 +4,11 @@ title: Acceptable Use Policy - Sentinel Security Solutions
 date: 2025-02-07 16:40:16
 description: Acceptable Use Policy for Sentinel Security Solutions
 tags: policy, cybersecurity
-categories: 
+categories:
 toc:
   beginning: true
 ---
+
 # Acceptable Use Policy
 
 ## Sentinel Security Solutions
@@ -35,6 +36,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
 1. **Company Property**: All data created, stored, or transmitted using company resources remains the sole property of Sentinel Security Solutions.
 
 2. **Limited Personal Use**: Limited personal use of company resources is permitted provided it does not:
+
    - Interfere with job performance or business operations
    - Compromise security or confidentiality
    - Incur additional costs to the company
@@ -49,11 +51,13 @@ This policy applies to all equipment, networks, systems, data, and services owne
 1. **Data Classification**: All users must adhere to the company's Data Classification Policy when handling information.
 
 2. **Confidential Information**: Users must exercise caution when accessing, using, and sharing confidential information:
+
    - Confidential information must be encrypted when stored or transmitted
    - Access to confidential information should be limited to authorized personnel only
    - Confidential information must not be shared with unauthorized parties
 
 3. **Data Protection**: Users must:
+
    - Lock workstations when unattended
    - Secure physical documents containing sensitive information
    - Report suspected data breaches immediately
@@ -63,6 +67,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
 ## System and Network Activities
 
 1. **Prohibited Activities**: The following activities are strictly prohibited:
+
    - Violations of copyright, trade secret, patent, or other intellectual property laws
    - Unauthorized copying or distribution of copyrighted material
    - Exporting software, technical information, or encryption technology in violation of export control laws
@@ -73,6 +78,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
    - Attempting to access unauthorized systems or data
 
 2. **Network Security**: Users must not:
+
    - Circumvent user authentication or security of any network or account
    - Interfere with service to any user, host, or network
    - Use scanning programs to probe network security without explicit authorization
@@ -85,11 +91,13 @@ This policy applies to all equipment, networks, systems, data, and services owne
 1. **Professional Communication**: All electronic communications sent using company resources must be professional and appropriate for business purposes.
 
 2. **Email Use**: Email accounts provided by Sentinel Security Solutions are primarily for business use:
+
    - Users must exercise caution when opening attachments or clicking links
    - Mass emails must comply with the company's Communication Policy
    - Auto-forwarding company email to external addresses is prohibited
 
 3. **Prohibited Content**: Users must not create, store, or transmit content that is:
+
    - Discriminatory, harassing, or defamatory
    - Obscene, pornographic, or sexually explicit
    - Likely to bring the company into disrepute
@@ -102,10 +110,12 @@ This policy applies to all equipment, networks, systems, data, and services owne
 ## Mobile Device Management (MDM) Policy
 
 1. **Enrollment Requirements**:
+
    - All company-owned mobile devices must be enrolled in the company's MDM solution
    - Personal devices used for business purposes (BYOD) must be enrolled in the MDM solution if they access, store, or process company data
 
 2. **Device Configuration**:
+
    - Enrolled devices will have the following configurations enforced:
      - Minimum 6-digit passcode or biometric authentication
      - Automatic screen lock after 5 minutes of inactivity
@@ -114,6 +124,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
      - Automatic security updates
 
 3. **Application Management**:
+
    - The company reserves the right to:
      - Install required business applications on enrolled devices
      - Restrict installation of unauthorized or high-risk applications
@@ -121,6 +132,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
      - Revoke access to company applications when necessary
 
 4. **Data Management**:
+
    - Company data on mobile devices will be:
      - Encrypted at rest and in transit
      - Containerized to separate business and personal data (on BYOD devices)
@@ -128,6 +140,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
      - Removed when a device is unenrolled or wiped
 
 5. **Monitoring and Compliance**:
+
    - The MDM solution will monitor:
      - Device security status
      - Operating system versions
@@ -136,6 +149,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
    - Non-compliant devices may be restricted from accessing company resources
 
 6. **Lost or Stolen Devices**:
+
    - Users must immediately report lost or stolen devices to the IT Security team
    - Company data on lost devices may be remotely wiped
    - For BYOD devices, the company will attempt selective wipe of company data only
@@ -172,6 +186,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
 ## Password Management
 
 1. **Password Requirements**:
+
    - Minimum length of 12 characters
    - Complex composition (uppercase, lowercase, numbers, special characters)
    - No dictionary words or common phrases
@@ -179,6 +194,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
    - Different from previous passwords
 
 2. **Password Practices**:
+
    - Passwords must not be shared with anyone
    - Passwords must not be written down or stored in unsecured locations
    - Multi-factor authentication must be used where available
@@ -192,6 +208,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
 1. **Secure Areas**: Access to secure areas is restricted to authorized personnel only.
 
 2. **Visitor Management**: All visitors must:
+
    - Sign in upon arrival
    - Wear visible identification
    - Be escorted in restricted areas
@@ -205,6 +222,7 @@ This policy applies to all equipment, networks, systems, data, and services owne
 ## Compliance Measurement
 
 The IT Security team will verify compliance with this policy through various methods, including but not limited to:
+
 - Automated monitoring and reporting
 - Regular system scans and audits
 - Internal and external audit reports
@@ -214,6 +232,7 @@ The IT Security team will verify compliance with this policy through various met
 ## Non-Compliance
 
 Violation of this policy may result in:
+
 1. Restriction or revocation of system privileges
 2. Disciplinary action up to and including termination of employment
 3. Civil or criminal prosecution where applicable
@@ -221,6 +240,7 @@ Violation of this policy may result in:
 ## Exceptions
 
 Any exceptions to this policy must be:
+
 1. Documented and approved in advance by the Chief Information Security Officer (CISO)
 2. Based on legitimate business or technical requirements
 3. Subject to additional security controls where necessary
@@ -236,19 +256,19 @@ Any exceptions to this policy must be:
 
 ## Revision History
 
-| Version | Date | Description | Approved By |
-|---------|------|-------------|------------|
-| 1.0 | May 7, 2025 | Initial policy creation | Executive Leadership Team |
+| Version | Date        | Description             | Approved By               |
+| ------- | ----------- | ----------------------- | ------------------------- |
+| 1.0     | May 7, 2025 | Initial policy creation | Executive Leadership Team |
 
 ## Acknowledgment of Understanding
 
 I acknowledge that I have read and understand the Acceptable Use Policy of Sentinel Security Solutions. I understand that violation of this policy may result in disciplinary action, up to and including termination of employment or business relationship.
 
-Name: _______________________________
+Name: **************\_\_\_**************
 
-Signature: _______________________________
+Signature: **************\_\_\_**************
 
-Date: _______________________________
+Date: **************\_\_\_**************
 
 ---
 
