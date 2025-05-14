@@ -6,7 +6,7 @@ description: Acceptable Use Policy for Sentinel Security Solutions
 tags: policy, cybersecurity
 categories:
 toc:
-  beginning: true
+  sidebar: left
 ---
 
 # Acceptable Use Policy
