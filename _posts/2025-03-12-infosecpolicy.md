@@ -5,6 +5,8 @@ date: 2025-03-12 16:40:16
 description: Information Security Policy for FortiVault, Inc.
 tags: policy, cybersecurity
 categories:
+toc:
+  sidebar: left
 ---
 
 # Information Security Policy
