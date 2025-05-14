@@ -67,6 +67,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/sentinelsecuritysolutions/";
           
         },
+      },{id: "post-milia-case-study",
+        
+          title: "Milia Case Study",
+        
+        description: "Corporate Solutions for Milia",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/milia-case-study/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
