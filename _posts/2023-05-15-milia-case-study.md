@@ -13,6 +13,7 @@ their issues as an organization.
 
 <br />
 
-<iframe src="[/Users/hoodrich/Downloads/Milia Case Study (1).pptx](https://docs.google.com/presentation/d/1-tVvVKVTlVyF7z3efYh3q0mSY0mIxL_zHaZ_IfH4uwk/edit?usp=drive_link)" width="100%" height="600px" frameborder="0"> </iframe>
+<iframe src="[/Users/hoodrich/Downloads/Milia Case Study (1).pptx]" width="100%" height="600px" frameborder="0"> </iframe>
 
-<object>[Milia Case Study](https://docs.google.com/presentation/d/1-tVvVKVTlVyF7z3efYh3q0mSY0mIxL_zHaZ_IfH4uwk/edit?usp=sharing)</object>
+<object>[Milia Case Study](/Users/hoodrich/Downloads/Milia Case Study (1).pptx)</object>
+
