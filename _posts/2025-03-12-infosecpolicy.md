@@ -19,7 +19,7 @@ _Contact: security@fortivault.com_
 
 ---
 
-## Executive Summary1
+## Executive Summary
 
 This policy defines FortiVault's commitment to safeguarding information assets through a structured cybersecurity program aligned with industry best practices and regulatory standards. The policy is based on the NIST Cybersecurity Framework and is designed to ensure the confidentiality, integrity, and availability of all FortiVault-managed data.
 
