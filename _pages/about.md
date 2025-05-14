@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Technical Writer. Cybersecurity. Knowledge Management.
 
 profile:
   align: right
