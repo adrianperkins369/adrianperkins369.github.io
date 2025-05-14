@@ -6,7 +6,6 @@ description: Information Security Policy for FortiVault, Inc.
 tags: policy, cybersecurity
 categories:
 toc:
-  beginning: true
   sidebar: left
 ---
 
