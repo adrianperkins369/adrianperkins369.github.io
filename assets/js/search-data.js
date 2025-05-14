@@ -499,7 +499,7 @@ ninja.data = [{
         title: 'Medium',
         section: 'Socials',
         handler: () => {
-          window.open("https://medium.com/@", "_blank");
+          window.open("https://medium.com/@adrianperkins", "_blank");
         },
       },{
       id: 'light-theme',
