@@ -492,7 +492,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/", "_blank");
+          window.open("https://www.linkedin.com/in/adrian-perkins", "_blank");
         },
       },{
         id: 'social-medium',
