@@ -7,6 +7,7 @@ tags: policy, cybersecurity
 categories:
 toc:
   beginning: true
+  sidebar: left
 ---
 
 # Information Security Policy
