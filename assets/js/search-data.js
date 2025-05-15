@@ -280,6 +280,17 @@ ninja.data = [{
             window.location.href = "/blog/2023/videos/";
           
         },
+      },{id: "post-introducing-salesforce-flow",
+        
+          title: "Introducing Salesforce Flow",
+        
+        description: "Informational slides introducing Salesforce Flow",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/salesforceflow/";
+          
+        },
       },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
         
           title: "displaying beautiful tables with Bootstrap Tables",
