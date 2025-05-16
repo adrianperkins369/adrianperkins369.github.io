@@ -5,6 +5,7 @@ date: 2023-04-04 16:40:16
 description: Informational slides introducing Salesforce Flow
 tags: salesforce product-management instructional-design
 categories:
+featured: true
 ---
 
 >**_NOTE:_** The following slides are highlights from a deck of 90 total slides.

@@ -3,7 +3,7 @@ layout: post
 title: Milia Case Study
 date: 2025-02-07 16:40:16
 description: Corporate Solutions for Milia
-tags: content-strategy, product-management
+tags: content-strategy product-management
 categories:
 ---
 
