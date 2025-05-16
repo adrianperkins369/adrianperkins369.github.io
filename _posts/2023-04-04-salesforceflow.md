@@ -6,6 +6,8 @@ description: Informational slides introducing Salesforce Flow
 tags: salesforce product-management instructional-design
 categories:
 ---
+<!DOCTYPE html>
+
 > **_NOTE:_**  The following slides are highlights from a deck of 90 total slides.
 
 Salesforce introduced Flow as the newest tool for automating business processes, enabling organizations to streamline workflows, reduce manual effort, and enhance data accuracy. I led the development of a training deck designed to help our team understand and implement Salesforce Flow. This presentation outlines:
@@ -18,7 +20,7 @@ Salesforce introduced Flow as the newest tool for automating business processes,
 
 <br>
 
-<img src="11.png" alt="Italian Trulli">
+<img src="/assets/img/11.png" alt="Italian Trulli">
 
 ![alt text](/Users/hoodrich/adrianperkins369.github.io/assets/img/)
 
@@ -40,4 +42,4 @@ Salesforce introduced Flow as the newest tool for automating business processes,
 
 ![image](adrianperkins369.github.io/assets/img/11.png)
 
-![alt text](../assets/img/11.png)
+![alt text](/assets/img/11.png)
