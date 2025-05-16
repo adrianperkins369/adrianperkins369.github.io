@@ -19,26 +19,17 @@ Salesforce introduced Flow as the newest tool for automating business processes,
 
 <br>
 
-<img src="/assets/img/11.png" alt="Italian Trulli" data-zoomable>
+<img src="/assets/img/11.png" alt="Italian Trulli" data-zoomable width="128" height="128">
 
-![alt text](/Users/hoodrich/adrianperkins369.github.io/assets/img/)
+<img src="/assets/img/12.png" data-zoomable width="128" height="128">
 
-![image](12.png)
+<img src="/assets/img/13.png" data-zoomable width="128" height="128">
 
-![image](13.png)
+<img src="/assets/img/14.png" data-zoomable width="128" height="128">
 
-![image](14.png)
+<img src="/assets/img/15.png" data-zoomable width="128" height="128">
 
-![image](15.png)
+<img src="/assets/img/16.png" data-zoomable width="128" height="128">
 
-![image](16.png)
+<img src="/assets/img/17.png" data-zoomable width="128" height="128">
 
-![image](17.png)
-
-<br>
-
-![ alt text](/path/image. jpg)
-
-![image](adrianperkins369.github.io/assets/img/11.png)
-
-![alt text](/assets/img/11.png)
