@@ -28,7 +28,9 @@ latest_posts:
 ---
 
 I'm Adrian, your favorite Technical Writer! Thank you for taking the time to visit my digital portfolio. With this visualization, I hope to give you the chance to learn more about me and some of the amazing projects I've completed. I'm a seasoned Technical Writer with a strong background in QA testing, Salesforce, and DevSecOps. My passion lies in bridging the gap between complex technical concepts and user-friendly documentation.
-<br>
+
+<br/>
+
 I thrive in dynamic environments where innovation and collaboration are key, and I'm dedicated to continuous improvement in both my writing and the processes I support. Whether it's developing user manuals or documenting security protocols, I'm committed to delivering high-quality, actionable content that enhances the user experience.
 
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
