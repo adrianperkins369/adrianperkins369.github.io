@@ -3,7 +3,7 @@ layout: post
 title: Acceptable Use Policy - Sentinel Security Solutions
 date: 2025-02-07 16:40:16
 description: Acceptable Use Policy for Sentinel Security Solutions
-tags: policy, cybersecurity
+tags: policy cybersecurity
 categories:
 toc:
   sidebar: left
