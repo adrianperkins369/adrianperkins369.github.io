@@ -652,4 +652,5 @@ jsonresume:
 external_sources:
   - name: medium.com  # name of the source (arbitrary string)
     rss_url: https://medium.com/@adrianperkins/feed
-    tags: cybersecurity data
+    posts:
+      - tags: cybersecurity data 
