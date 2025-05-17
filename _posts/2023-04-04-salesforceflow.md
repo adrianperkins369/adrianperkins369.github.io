@@ -20,7 +20,7 @@ Salesforce introduced Flow as the newest tool for automating business processes,
 
 <br>
 
-<img src="/assets/img/11.png" alt="Italian Trulli" data-zoomable width="640" height="320">
+<img src="/assets/img/11.png" data-zoomable width="640" height="320">
 
 <img src="/assets/img/12.png" data-zoomable width="640" height="320">
 
