@@ -258,7 +258,7 @@ Any exceptions to this policy must be:
 
 | Version | Date        | Description             | Approved By               |
 | ------- | ----------- | ----------------------- | ------------------------- |
-| 1.0     | May 7, 2025 | Initial policy creation | Executive Leadership Team |
+| 1.0     | Feb 7 2025 | Initial policy creation | Executive Leadership Team |
 
 ## Acknowledgment of Understanding
 
