@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+gem 'jekyll', github: 'jekyll/jekyll'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
