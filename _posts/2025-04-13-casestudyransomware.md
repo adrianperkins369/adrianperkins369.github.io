@@ -8,7 +8,7 @@ categories:
 toc:
   sidebar: left
 ---
-**Case Study: Ransomware Incident Response at FortiVault, Inc.**
+
 
 **Company**: FortiVault, Inc.
 **Date**: April 5, 2025
