@@ -11,9 +11,13 @@ toc:
 
 
 **Company**: FortiVault, Inc.
+<br>
 **Date**: April 5, 2025
+<br>
 **Prepared by**: Information Security Team
+<br>
 **Policy Reference**: Information Security Policy v1.0
+<br>
 **Contact**: [security@fortivault.com](mailto:security@fortivault.com)
 
 ---

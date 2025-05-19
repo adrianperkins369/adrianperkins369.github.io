@@ -12,10 +12,10 @@ toc:
 # Information Security Policy
 
 **FortiVault, Inc.**  
-_Version 1.0_  
-_Effective Date: March 12, 2025_  
-_Prepared by: Information Security Team_  
-_Contact: security@fortivault.com_
+**Version 1.0**  
+**Effective Date:** March 12, 2025  
+**Prepared by:** Information Security Team 
+**Contact:** [security@fortivault.com](mailto:security@fortivault.com)
 
 ---
 
