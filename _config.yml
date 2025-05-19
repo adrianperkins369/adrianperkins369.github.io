@@ -647,6 +647,6 @@ jsonresume:
 # Medium Profile
 # --------------------------------
 
-# external_sources:
-#  - name: medium.com # name of the source (arbitrary string)
-#    rss_url: https://medium.com/@adrianperkins/feed
+external_sources:
+  - name: medium.com # name of the source (arbitrary string)
+    rss_url: https://medium.com/@adrianperkins/feed
