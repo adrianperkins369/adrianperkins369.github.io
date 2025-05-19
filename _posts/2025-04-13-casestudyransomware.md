@@ -16,7 +16,7 @@ toc:
 <br>
 **Prepared by**: Information Security Team
 <br>
-**Policy Reference**: [Information Security Policy v1.0](/Users/hoodrich/adrianperkins369.github.io/_posts/2025-03-12-infosecpolicy)
+**Policy Reference**: [Information Security Policy v1.0](/_posts/2025-03-12-infosecpolicy.md)
 <br>
 **Contact**: [security@fortivault.com](mailto:security@fortivault.com)
 
