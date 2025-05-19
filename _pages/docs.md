@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /documentation/
-title: documentation
+permalink: /docs/
+title: docs
 nav: true
 nav_order: 1
 pagination:
