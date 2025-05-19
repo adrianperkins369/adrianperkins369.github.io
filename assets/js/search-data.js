@@ -16,7 +16,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/documentation/index.html";
           },
-        },{id: "post-information-security-policy-fortivault",
+        },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2025-04-13-casestudyransomware/";
+          
+        },
+      },{id: "post-information-security-policy-fortivault",
         
           title: "Information Security Policy - FortiVault",
         
