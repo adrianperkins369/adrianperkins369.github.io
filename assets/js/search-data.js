@@ -16,15 +16,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/documentation/index.html";
           },
-        },{id: "post-",
+        },{id: "post-case-study-ransomware-incident-response-at-fortivault-inc",
         
-          title: "",
+          title: "Case Study - Ransomware Incident Response at FortiVault, Inc.",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-04-13-casestudyransomware/";
+            window.location.href = "/blog/2025/casestudyransomware/";
           
         },
       },{id: "post-information-security-policy-fortivault",
