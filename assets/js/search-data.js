@@ -9,12 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-documentation",
-          title: "documentation",
+  },{id: "nav-docs",
+          title: "docs",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/documentation/index.html";
+            window.location.href = "/docs/index.html";
           },
         },{id: "post-case-study-ransomware-incident-response-at-fortivault-inc",
         
