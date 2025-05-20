@@ -24,7 +24,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/documentation/2025/casestudyransomware/";
+            window.location.href = "/docs/2025/casestudyransomware/";
           
         },
       },{id: "post-information-security-policy-fortivault",
@@ -35,7 +35,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/documentation/2025/infosecpolicy/";
+            window.location.href = "/docs/2025/infosecpolicy/";
           
         },
       },{id: "post-teamlink-v2-4-0-release-notes",
@@ -46,7 +46,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/documentation/2025/TeamLink/";
+            window.location.href = "/docs/2025/TeamLink/";
           
         },
       },{id: "post-acceptable-use-policy-sentinel-security-solutions",
@@ -57,7 +57,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/documentation/2025/sentinelsecuritysolutions/";
+            window.location.href = "/docs/2025/sentinelsecuritysolutions/";
           
         },
       },{id: "post-milia-case-study",
@@ -68,7 +68,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/documentation/2025/milia-case-study/";
+            window.location.href = "/docs/2025/milia-case-study/";
           
         },
       },{id: "post-breaking-barriers-with-splunk-enterprise-security",
@@ -90,7 +90,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/documentation/2023/salesforceflow/";
+            window.location.href = "/docs/2023/salesforceflow/";
           
         },
       },{id: "books-the-godfather",
