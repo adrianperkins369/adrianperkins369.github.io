@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Technical Writer. Cybersecurity. Risk & Compliance.
+subtitle: <p style="color:#2698ba;">Technical Writer. Cybersecurity. Risk & Compliance.</p>
 
 profile:
   align: right
