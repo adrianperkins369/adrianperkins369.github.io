@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Technical Writer. Cybersecurity. Knowledge Management.
+subtitle: Technical Writer. Cybersecurity. Risk & Compliance.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>562-380-1473</p>
     <p></p>
-    <p>Long Beach, Ca 90802</p>
+    <p>Long Beach, CA 90802</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
