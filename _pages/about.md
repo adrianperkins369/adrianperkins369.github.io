@@ -26,13 +26,15 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
+<p>
 I’m Adrian, a skilled Technical Writer with a proven track record of translating complex technical information into clear, concise, and user-friendly documentation. I bring a strong background in QA testing, Salesforce, and DevSecOps, allowing me to bridge gaps between cross-functional teams and end users effectively.
 </p>
+<p>
 My work is driven by a deep understanding of both technical systems and user needs. I’ve supported product launches, streamlined documentation processes, and helped teams meet compliance and security standards through well-structured content. I thrive in fast-paced, collaborative environments and am always seeking ways to improve documentation workflows and user experience.
 </p>
+<p>
 I’m currently open to opportunities where I can bring value as a documentation expert—whether in SaaS, cybersecurity, or enterprise platforms—and contribute to the success of product, engineering, and customer-facing teams.
-
+</p>
 <!--- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. --->
 
 <!--- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. --->
