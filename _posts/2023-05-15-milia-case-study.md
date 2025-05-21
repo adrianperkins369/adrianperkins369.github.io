@@ -89,5 +89,6 @@ I partnered with their global support team to develop a scalable, user-focused d
 
 This case study demonstrates how thoughtful content strategy, UX writing, and cross-functional collaboration can solve support challenges during periods of rapid growth. Milia now has a solid foundation for scalable, user-centered documentation that meets the needs of a global workforce and customer base.
 
+---
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfHuWnaGapeB-6xl2F6oryMmiw7VcpDs0AMl9Vl5exqZLXoUtHAK5q2Jqj7HisTBukKiW83TNxy9rV/pubembed?start=true&loop=true&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
