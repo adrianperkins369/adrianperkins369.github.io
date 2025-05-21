@@ -266,7 +266,7 @@ This policy will be reviewed annually and revised in response to:
 - [NIST Cybersecurity Framework v1.1](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf)
 - [NIST SP 800-53 Rev. 5](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
 - [NIST SP 800-171 Rev. 3](https://csrc.nist.gov/pubs/sp/800/171/r3/final)
-- ISO/IEC 27001:2013
+- ISO/IEC 27001:2022
 - FortiVault Information Classification Policy
 - FortiVault Incident Response Plan
 
