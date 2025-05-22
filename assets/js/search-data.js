@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/docs/index.html";
           },
-        },{id: "nav-technical-skills-amp-certifications",
-          title: "Technical Skills &amp; Certifications",
+        },{id: "nav-skills",
+          title: "skills",
           description: "Technical Skills &amp; Certifications",
           section: "Navigation",
           handler: () => {
