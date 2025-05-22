@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/docs/index.html";
           },
+        },{id: "nav-technical-skills-amp-certifications",
+          title: "Technical Skills &amp; Certifications",
+          description: "Technical Skills &amp; Certifications",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/skills/";
+          },
         },{id: "post-case-study-ransomware-incident-response-at-fortivault-inc",
         
           title: "Case Study - Ransomware Incident Response at FortiVault, Inc.",
