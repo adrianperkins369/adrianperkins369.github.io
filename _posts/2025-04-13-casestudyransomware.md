@@ -8,7 +8,7 @@ categories:
 toc:
   sidebar: left
 ---
-
+> The following case study is based on a fictitious company "FortiVault".
 
 **Company**: FortiVault, Inc.
 <br>
