@@ -6,7 +6,7 @@ description: Corporate Solutions for Milia
 tags: content-strategy product-management case-study knowledge-management
 categories:
 ---
-> The following case study is based on a fictitious company(Milia).
+> The following case study is based on the fictitious company "Milia".
 
 **Client:** Milia – Global Leader in Delivery Platform Aggregation  
 **Focus:** Knowledge Management, Content Strategy, UX Writing, Global Collaboration  
