@@ -67,9 +67,9 @@ ninja.data = [{
             window.location.href = "/docs/2025/sentinelsecuritysolutions/";
           
         },
-      },{id: "post-case-study-building-a-scalable-content-strategy-for-milia",
+      },{id: "post-case-study-establishing-a-scalable-content-strategy-for-milia",
         
-          title: "Case Study - Building a Scalable Content Strategy for Milia",
+          title: "Case Study - Establishing a Scalable Content Strategy for Milia",
         
         description: "Corporate Solutions for Milia",
         section: "Posts",
