@@ -10,7 +10,7 @@ nav_order: 3
 
 | Category              | Skills                                        |
 |-----------------------|-----------------------------------------------| 
-| **Languages**         | Python, Javascript, Markdown, HTML/CSS        |
+| **Languages**         | Python, Javascript, Markdown, HTML/CSS, SQL   |
 | **Security Tools**    | Wireshark, Splunk, Nessus                     |
 | **Documentation**     | Confluence, GitLab, VS Code, Sharepoint       |
 | **CI/CD & DevOps**    | Docker, GitLab CI                             |
