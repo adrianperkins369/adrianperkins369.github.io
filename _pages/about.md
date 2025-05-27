@@ -26,6 +26,17 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WL2EQQVRYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WL2EQQVRYD');
+</script>
+
 <p>
 I’m Adrian, a skilled Technical Writer with a proven track record of translating complex technical information into clear, concise, and user-friendly documentation. I bring a strong background in QA testing, Salesforce, and DevSecOps, allowing me to bridge gaps between cross-functional teams and end users effectively.
 </p>
