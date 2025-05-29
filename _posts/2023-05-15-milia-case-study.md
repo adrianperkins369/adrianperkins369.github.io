@@ -6,6 +6,16 @@ description: Corporate Solutions for Milia
 tags: content-strategy product-management case-study knowledge-management
 categories:
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WL2EQQVRYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WL2EQQVRYD');
+</script>
+
 > The following case study is based on the fictitious company "Milia".
 
 **Client:** Milia – Global Leader in Delivery Platform Aggregation  

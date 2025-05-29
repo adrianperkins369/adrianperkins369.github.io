@@ -6,10 +6,10 @@ subtitle: <p style="color:#2698ba;">Technical Writer. Cybersecurity. Risk & Comp
 
 profile:
   align: right
-  image: image.png
+  image: IMG_5782.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>562-380-1473</p>
+    <p><center>562-380-1473</center></p>
     <p></p>
     <p>Long Beach, CA 90802</p>
 

@@ -8,6 +8,16 @@ categories:
 toc:
   sidebar: left
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WL2EQQVRYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WL2EQQVRYD');
+</script>
+
 > The following case study is based on the fictitious company "FortiVault".
 
 **Company**: FortiVault, Inc.

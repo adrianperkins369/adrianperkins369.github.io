@@ -6,6 +6,16 @@ description: Technical Skills & Certifications
 nav: true
 nav_order: 3
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WL2EQQVRYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WL2EQQVRYD');
+</script>
+
 ## Technical Skills 
 
 | Category              | Skills                                        |

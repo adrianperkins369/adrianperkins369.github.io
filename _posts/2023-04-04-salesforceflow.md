@@ -7,6 +7,15 @@ tags: salesforce product-management instructional-design
 categories:
 featured: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-WL2EQQVRYD"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-WL2EQQVRYD');
+</script>
 
 >**_NOTE:_** The following slides are highlights from a deck of 90 total slides.
 
