@@ -10,7 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p><center>562-380-1473</center></p>
-    <p></p>
     <p><center>Long Beach, CA 90802</center></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
