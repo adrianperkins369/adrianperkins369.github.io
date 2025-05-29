@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p><center>562-380-1473</center></p>
     <p></p>
-    <p>Long Beach, CA 90802</p>
+    <p><center>Long Beach, CA 90802</center></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
