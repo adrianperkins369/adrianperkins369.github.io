@@ -12,10 +12,12 @@ toc:
 
 # Acceptable Use Policy
 
-**Sentinel Security Solutions**
-**Version: 1.0**
-**Effective Date: February 7, 2025**  
-**Document ID: AUP-2025-001**  
+**Sentinel Security Solutions** 
+**Version: 1.0** 
+**Effective Date: February 7, 2025** 
+**Document ID: AUP-2025-001** 
+
+---
 
 ## Purpose
 
