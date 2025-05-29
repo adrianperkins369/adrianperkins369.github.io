@@ -9,6 +9,7 @@ toc:
   sidebar: left
 ---
 > The following case study is based on the fictitious company "Sentinel Security Solutions".
+
 # Acceptable Use Policy
 
 ## Sentinel Security Solutions
