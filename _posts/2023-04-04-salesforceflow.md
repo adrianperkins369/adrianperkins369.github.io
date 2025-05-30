@@ -5,7 +5,7 @@ date: 2023-04-04 16:40:16
 description: Informational slides introducing Salesforce Flow
 tags: salesforce product-management instructional-design
 categories:
-featured: true
+featured: false
 ---
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WL2EQQVRYD"></script>

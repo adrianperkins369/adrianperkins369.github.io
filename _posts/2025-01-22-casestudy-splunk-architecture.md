@@ -7,6 +7,7 @@ tags:  cybersecurity splunk data compliance case-study
 categories:
 toc:
   sidebar: left
+featured: true
 ---
 
 # Splunk Architecture for Compliance Monitoring:Case Study
