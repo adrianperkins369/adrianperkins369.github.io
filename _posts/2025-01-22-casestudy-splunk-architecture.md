@@ -44,7 +44,7 @@ Document how Splunk ingests, indexes, and presents data across multiple operatin
 > **Figure 1: Splunk Data Flow Architecture**  
 > *Data flows through forwarders (Linux, Universal, Windows) into the Indexer, then to the Search Head for visualization through dashboards, alerts, and reports.*
 
-![Splunk Architecture Diagram](/assets/img/Blankdiagram.png)
+Splunk Architecture Diagram <img src="/assets/img/Blankdiagram.png" data-zoomable width="640" height="320">
 
 ---
 
