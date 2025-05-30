@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/skills/";
           },
-        },{id: "post-case-study-ransomware-incident-response-at-fortivault-inc",
+        },{id: "post-ransomware-incident-response-at-fortivault-inc-case-study",
         
-          title: "Case Study - Ransomware Incident Response at FortiVault, Inc.",
+          title: "Ransomware Incident Response at FortiVault, Inc. - Case Study",
         
         description: "",
         section: "Posts",
@@ -76,6 +76,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/docs/2025/milia-case-study/";
+          
+        },
+      },{id: "post-splunk-architecure-for-compliance-monitoring",
+        
+          title: "Splunk Architecure for Compliance Monitoring",
+        
+        description: "Diagram of Splunk Data Flow Architecture",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/docs/2025/casestudy-splunk-architecture/";
           
         },
       },{id: "post-breaking-barriers-with-splunk-enterprise-security",
