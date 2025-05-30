@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Splunk Architecure for Compliance Monitoring
+title: Splunk Architecure for Compliance Monitoring - Case Study
 date: 2025-01-22 16:40:16
 description: Diagram of Splunk Data Flow Architecture
-tags:  cybersecurity splunk data compliance
+tags:  cybersecurity splunk data compliance case-study
 categories:
 toc:
   sidebar: left
 ---
 
-# Case Study: Splunk Architecture for Compliance Monitoring
+# Splunk Architecture for Compliance Monitoring:Case Study
 
 **Project**: Splunk Enterprise Architecture Documentation  
 **Client**: Government Contract – Security & Compliance Division  

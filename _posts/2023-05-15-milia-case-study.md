@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case Study - Establishing a Scalable Content Strategy for Milia
+title: Establishing a Scalable Content Strategy for Milia - Case Study
 date: 2025-02-07 16:40:16
 description: Corporate Solutions for Milia
 tags: content-strategy product-management case-study knowledge-management
