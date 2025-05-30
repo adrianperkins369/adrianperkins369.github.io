@@ -16,7 +16,7 @@ featured: true
 **Client**: Government Contract – Security & Compliance Division  
 **Deliverable**: System Architecture Diagram + FedRAMP-Aligned Documentation  
 **Role**: Technical Writer  
-
+**Tools**: LucidChart, Splunk Enterprise Security
 ---
 
 ## Overview  
