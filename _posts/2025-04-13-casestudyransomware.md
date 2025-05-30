@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case Study - Ransomware Incident Response at FortiVault, Inc.
+title: Ransomware Incident Response at FortiVault, Inc. - Case Study
 date: 2025-04-13 16:40:16
 description: 
 tags: policy cybersecurity case-study
