@@ -10,8 +10,6 @@ toc:
 featured: true
 ---
 
-# Splunk Architecture for Compliance Monitoring:Case Study
-
 **Project**: Splunk Enterprise Architecture Documentation  
 **Client**: Government Contract – Security & Compliance Division  
 **Deliverable**: System Architecture Diagram + FedRAMP-Aligned Documentation  
