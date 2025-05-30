@@ -20,8 +20,6 @@ toc:
 
 > The following case study is based on the fictitious company "Sentinel Security Solutions".
 
-# Acceptable Use Policy
-
 **Sentinel Security Solutions**  
 **Version: 1.0**   
 **Effective Date: February 7, 2025**   

@@ -20,8 +20,6 @@ toc:
 
 > The following case study is based on the fictitious company "FortiVault".
 
-# Information Security Policy
-
 **FortiVault, Inc.**  
 **Version 1.0**  
 **Effective Date:** March 12, 2025  

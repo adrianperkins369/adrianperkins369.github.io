@@ -17,6 +17,7 @@ featured: true
 **Deliverable**: System Architecture Diagram + FedRAMP-Aligned Documentation  
 **Role**: Technical Writer  
 **Tools**: LucidChart, Splunk Enterprise Security
+
 ---
 
 ## Overview  
