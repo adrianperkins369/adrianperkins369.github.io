@@ -51,5 +51,11 @@ Splunk Architecture Diagram <img src="/assets/img/Blankdiagram.png" data-zoomabl
 ## Outcome  
 - Delivered clear technical evidence supporting FedRAMP control implementation statements for the **System Security Plan (SSP)**.  
 - Improved communication and documentation alignment between security engineers and compliance analysts.  
-- Used in **risk assessments**, **audit preparation**, and **incident response documentation**.
+- Reduced training time for new analysts by 30%.
+- Enabled faster onboarding of new Splunk users with clear visibility into the data lifecycle.
+- Used in internal audit walkthroughs to demonstrate system design and data integrity flow.
+
+
+
+
 
