@@ -53,4 +53,3 @@ Splunk Architecture Diagram <img src="/assets/img/Blankdiagram.png" data-zoomabl
 - Improved communication and documentation alignment between security engineers and compliance analysts.  
 - Used in **risk assessments**, **audit preparation**, and **incident response documentation**.
 
----
