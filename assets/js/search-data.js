@@ -67,9 +67,9 @@ ninja.data = [{
             window.location.href = "/docs/2025/sentinelsecuritysolutions/";
           
         },
-      },{id: "post-case-study-establishing-a-scalable-content-strategy-for-milia",
+      },{id: "post-establishing-a-scalable-content-strategy-for-milia-case-study",
         
-          title: "Case Study - Establishing a Scalable Content Strategy for Milia",
+          title: "Establishing a Scalable Content Strategy for Milia - Case Study",
         
         description: "Corporate Solutions for Milia",
         section: "Posts",
@@ -78,9 +78,9 @@ ninja.data = [{
             window.location.href = "/docs/2025/milia-case-study/";
           
         },
-      },{id: "post-splunk-architecure-for-compliance-monitoring",
+      },{id: "post-splunk-architecure-for-compliance-monitoring-case-study",
         
-          title: "Splunk Architecure for Compliance Monitoring",
+          title: "Splunk Architecure for Compliance Monitoring - Case Study",
         
         description: "Diagram of Splunk Data Flow Architecture",
         section: "Posts",
